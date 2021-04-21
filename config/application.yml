@@ -1,0 +1,10 @@
+
+server:
+  port: 8080
+datasource:
+  host: 192.192.191.244
+  port: 3306
+  database: ginessential
+  username: root
+  password: 73da0b2bf5e36958
+  charset: utf8mb4
